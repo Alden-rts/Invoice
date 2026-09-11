@@ -28,8 +28,7 @@ Sistem otomatisasi pencatatan transaksi keuangan bisnis menggunakan **Bot Telegr
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/Alden-rts/bot-rekap-keuangan.git](https://github.com/Alden-rts/bot-rekap-keuangan.git)
-cd bot-rekap-keuangan
+https://github.com/Alden-rts/Invoice.git
 ```
 ### 2. Install Dependencies
 ```bash
